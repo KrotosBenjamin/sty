@@ -1,0 +1,839 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2017.11.1)  8 NOV 2017 13:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hackerfiles.tex
+(./hackerfiles.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7551.
+LaTeX Info: Redefining \emph on input line 7559.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12068.
+LaTeX Info: Redefining \! on input line 12070.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip185
+\aftertitleunit=\skip186
+\ttl@plus=\dimen147
+\ttl@minus=\dimen148
+\ttl@toksa=\toks24
+\titlewidth=\dimen149
+\titlewidthlast=\dimen150
+\titlewidthfirst=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/cmtt.sty
+Package: cmtt 1996/05/25 1.1 Handing of the cmtt font
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/mTTenc.def
+File: mTTcmtt.def 1996/05/25 1.1 Handing of the cmtt font
+))
+(./hackerfiles.aux (./chaps/01.aux) (./chaps/02.aux) (./chaps/03.aux)
+(./chaps/04.aux) (./chaps/05.aux) (./chaps/06.aux) (./chaps/07.aux)
+(./chaps/08.aux) (./chaps/09.aux) (./chaps/10.aux) (./chaps/11.aux)
+(./chaps/12.aux) (./chaps/13.aux) (./chaps/14.aux) (./chaps/15.aux)
+(./chaps/16.aux))
+\openout1 = `hackerfiles.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for mTT/cmtt/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for mTT+cmtt on input line 27.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdwtools/mTTcmtt.fd
+File: mTTcmtt.fd 1996/05/25 1.1 Handing of the cmtt font
+)
+LaTeX Font Info:    ... okay on input line 27.
+ [1
+
+] [2
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+]
+[2]
+\openout2 = `chaps/01.aux'.
+
+ (./chaps/01.tex [3
+
+
+]
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 13.
+
+[4
+
+] [5] [6]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 46.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [7]
+[8] [9] [10] [11] [12] [13
+
+] [14]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 212.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 212.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 212.
+ [15] [16]
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 248.
+
+
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) [17]
+\openout2 = `chaps/02.aux'.
+
+ (./chaps/02.tex [18
+
+
+
+] [19]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [20]
+[21]
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 58.
+ [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+Overfull \hbox (1.65683pt too wide) in paragraph at lines 234--235
+[]\T1/lmr/m/n/12 ``Wait a sec-ond.'' Haruto in-ter-rupted ac-ci-den-tally. ``In
+ the ini-tial treaty?'' 
+ []
+
+[33] [34] [35] [36
+
+] [37] [38]
+Overfull \hbox (12.7354pt too wide) in paragraph at lines 319--320
+[]\T1/lmr/m/n/12 Haruto held back a sigh as he en-tered his own count down. \T1
+/lmr/bx/sc/12 176..175..174.. 
+ []
+
+[39] [40] [41] [42] [43] [44] [45]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 438.
+
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+[46]) [47]
+\openout2 = `chaps/03.aux'.
+
+ (./chaps/03.tex [48
+
+
+
+] [49] [50] [51] [52] [53] [54
+
+] [55] [56]
+[57] [58] [59] [60]
+Overfull \hbox (14.20665pt too wide) in paragraph at lines 175--176
+[]\T1/lmr/m/n/12 ``We never said what time the in-ci-dent oc-curred, Cadet H^^I
+eidòng.'' Guardian
+ []
+
+[61] [62] [63] [64
+
+] [65] [66] [67] [68] [69] [70] [71] [72] [73]) [74]
+\openout2 = `chaps/04.aux'.
+
+
+(./chaps/04.tex [75
+
+
+
+] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86]
+[87] [88
+
+] [89] [90] [91] [92] [93] [94] [95
+
+] [96] [97] [98] [99] [100] [101]
+[102] [103] [104] [105]) [106]
+\openout2 = `chaps/05.aux'.
+
+ (./chaps/05.tex [107
+
+
+
+] [108
+
+] [109] [110]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 60.
+
+Overfull \hbox (50.7992pt too wide) in paragraph at lines 60--61
+[]\T1/lmtt/b/n/12 My name is Captain Shihou Lin and I am the creator of the ori
+ginal
+ []
+
+
+Overfull \hbox (25.59924pt too wide) in paragraph at lines 64--65
+[]\T1/lmtt/b/n/12 Before going into the details of the rail gun, it is importan
+t
+ []
+
+[111
+
+] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
+[123] [124] [125] [126] [127]
+Overfull \hbox (1.78325pt too wide) in paragraph at lines 383--384
+\T1/lmr/m/n/12 let-ting off with some easy chores. Of course that de-pended on 
+the Guardian's
+ []
+
+[128] [129] [130
+
+]
+Overfull \hbox (0.55632pt too wide) in paragraph at lines 419--420
+[]\T1/lmr/m/it/12 `It's not magic, QB. Hon-est.' \T1/lmr/m/n/12 Haruto replied 
+as he fol-lowed the Guardian
+ []
+
+[131] [132] [133] [134]
+Overfull \hbox (1.55492pt too wide) in paragraph at lines 510--511
+\T1/lmr/m/n/12 your sen-ti-men-tal-i-ties don't con-tinue to weaken KTS Kanopos
+.'' The Zhùróng
+ []
+
+[135] [136]
+Overfull \hbox (13.24596pt too wide) in paragraph at lines 536--537
+[]\T1/lmss/bx/n/12 Common trash. \T1/lmr/m/n/12 QB9 mut-tered an-grily. \T1/lms
+s/bx/n/12 What will you tell the Princess!?
+ []
+
+[137] [138] [139] [140
+
+] [141] [142] [143] [144] [145] [146] [147] [148]
+[149] [150]) [151]
+\openout2 = `chaps/06.aux'.
+
+ (./chaps/06.tex [152
+
+
+
+]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [153]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [154]
+Overfull \hbox (8.33153pt too wide) in paragraph at lines 45--46
+\T1/lmr/m/n/12 A tech-nique she'd needed to mas-ter af-ter work-ing with the re
+d-head. ``Haruto.''
+ []
+
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [155]
+[156] [157]
+Overfull \hbox (11.89972pt too wide) in paragraph at lines 81--82
+[]\T1/lmr/m/n/12 ``And your pos-i-tive none of these se-cret com-part-ments are
+ on any blueprint,
+ []
+
+[158] [159] [160] [161] [162] [163] [164] [165
+
+] [166]) [167]
+\openout2 = `chaps/07.aux'.
+
+ (./chaps/07.tex
+[168
+
+
+
+] [169] [170] [171] [172] [173] [174] [175] [176
+
+] [177] [178] [179]
+[180] [181]
+Overfull \hbox (2.99219pt too wide) in paragraph at lines 253--254
+[]\T1/lmr/m/n/12 ``Pilots \T1/lmr/m/it/12 pro-tect \T1/lmr/m/n/12 peo-ple, they
+ don't kill them.'' Haruto coun-tered. ``Haven't
+ []
+
+[182] [183] [184]
+Overfull \hbox (0.42824pt too wide) in paragraph at lines 309--310
+[]\T1/lmr/m/n/12 The Cap-tain rose as the Keep-ers strolled onto his com-mand d
+eck. ``What
+ []
+
+[185] [186] [187] [188]) [189]
+\openout2 = `chaps/08.aux'.
+
+ (./chaps/08.tex [190
+
+
+
+] [191
+
+] [192] [193] [194]
+[195] [196] [197] [198] [199] [200] [201] [202] [203] [204]) [205]
+\openout2 = `chaps/09.aux'.
+
+
+(./chaps/09.tex [206
+
+
+
+] [207
+
+] [208] [209] [210] [211] [212] [213] [214] [215]
+[216] [217] [218] [219] [220] [221] [222] [223
+
+]) [224
+
+]
+\openout2 = `chaps/10.aux'.
+
+ (./chaps/10.tex [225
+
+
+
+]
+[226] [227] [228] [229] [230] [231] [232]) [233]
+\openout2 = `chaps/11.aux'.
+
+ (./chaps/11.tex [234
+
+
+
+] [235]
+[236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246
+
+] [247]
+[248] [249] [250] [251] [252] [253] [254
+
+] [255] [256] [257] [258] [259])
+[260]
+\openout2 = `chaps/12.aux'.
+
+ (./chaps/12.tex [261
+
+
+
+] [262
+
+] [263] [264] [265] [266] [267] [268] [269]
+[270] [271] [272] [273] [274] [275] [276] [277] [278] [279]) [280]
+\openout2 = `chaps/13.aux'.
+
+
+(./chaps/13.tex [281
+
+
+
+] [282
+
+] [283
+
+] [284
+
+] [285
+
+] [286]
+Overfull \hbox (4.5327pt too wide) in paragraph at lines 65--66
+[]\T1/lmr/m/n/12 When the Sergeant had con-fronted her about learn-ing more abo
+ut Techies
+ []
+
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [287]
+Overfull \hbox (0.20686pt too wide) in paragraph at lines 87--88
+[]\T1/lmr/m/n/12 ``Audio com-ing on-line now ma'am,'' the Techie in charge of v
+i-sual replied,
+ []
+
+[288] [289]
+Overfull \hbox (4.32983pt too wide) in paragraph at lines 119--120
+[]\T1/lmr/m/n/12 Qíshàn voice was un-mis-tak-able when he added, ``Im-pos-si-bl
+e, 100% Cadet,
+ []
+
+[290] [291]
+Underfull \vbox (badness 1990) has occurred while \output is active []
+
+ [292]
+Overfull \hbox (0.89879pt too wide) in paragraph at lines 165--166
+[]\T1/lmr/m/n/12 ``High Com-man-der, she's just wast-ing our time.'' Qíshàn rep
+lied. Aeliana
+ []
+
+[293] [294] [295] [296] [297] [298] [299]) [300]
+\openout2 = `chaps/14.aux'.
+
+ (./chaps/14.tex [301
+
+
+
+]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+ [302]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [303]
+[304] [305] [306] [307] [308] [309] [310] [311] [312] [313] [314] [315]
+[316] [317] [318] [319] [320
+
+] [321] [322]
+Overfull \hbox (1.3441pt too wide) in paragraph at lines 268--269
+[]\T1/lmr/m/n/12 ``Do you?'' She ques-tioned softly, just an-other rule of the 
+Game. Zhùróng
+ []
+
+[323] [324] [325] [326] [327] [328] [329] [330] [331] [332] [333] [334]
+[335] [336]) [337]
+\openout2 = `chaps/15.aux'.
+
+ (./chaps/15.tex [338
+
+
+
+] [339] [340]
+Overfull \hbox (2.8889pt too wide) in paragraph at lines 56--57
+[]\T1/lmr/m/n/12 ``Cadet He-lian, you cur-rently at-tend KANP with Cadet H^^Iei
+dòng Haruto.'' 
+ []
+
+[341] [342] [343] [344] [345]
+Underfull \hbox (badness 10000) in paragraph at lines 139--146
+
+ []
+
+[346
+
+]) [347]
+\openout2 = `chaps/16.aux'.
+
+ (./chaps/16.tex [348
+
+
+
+]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+ [349]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [350]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [351]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [352]
+Overfull \hbox (5.31813pt too wide) in paragraph at lines 40--41
+[]\T1/lmr/m/n/12 The muf-fled sound of her door slid-ing open broke Yakei from 
+her thoughts.
+ []
+
+[353] [354]
+Missing character: There is no ‘ in font ec-lmr12!
+
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [355]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+ [356]
+[357] [358
+
+] [359] [360] [361
+
+] [362] [363]) [364] (./hackerfiles.aux
+(./chaps/01.aux) (./chaps/02.aux) (./chaps/03.aux) (./chaps/04.aux)
+(./chaps/05.aux) (./chaps/06.aux) (./chaps/07.aux) (./chaps/08.aux)
+(./chaps/09.aux) (./chaps/10.aux) (./chaps/11.aux) (./chaps/12.aux)
+(./chaps/13.aux) (./chaps/14.aux) (./chaps/15.aux) (./chaps/16.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4633 strings out of 492998
+ 62943 string characters out of 6136605
+ 159749 words of memory out of 5000000
+ 8494 multiletter control sequences out of 15000+600000
+ 45107 words of font info for 42 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 29i,11n,22p,866b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on hackerfiles.pdf (366 pages).

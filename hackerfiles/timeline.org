@@ -1,0 +1,913 @@
+* Hackerfiles - Moon Princess
+** Timeline
+
+|-------+------+------+-------+----------------------------------------|
+| 2nd Coming | Year |  FDY | Month | Event                                  |
+|-------+------+------+-------+----------------------------------------|
+|     0 | -407 | -744 |       | The Second coming of Princess Kaguya   |
+|   200 | -207 | -544 |       | First Holy War                         |
+|   213 | -194 | -531 |       | Stargazer leaves Earth for Piracy      |
+|   407 |    0 | -337 |       | First celebration of the Moon Princess (Moon Festival) |
+|   720 |  313 |  -24 |       | Hanza and Hashirama meet               |
+|   744 |  337 |    0 |       | Founding of KTS Kanopos                |
+|   744 |  337 |    0 |       | Hyuuga and Senju truce - donation of 50% of Kanopos funds |
+|   748 |  341 |    4 |       | Hanza develops 'seal' technology for clan |
+|   748 |  341 |    4 |       | Hyuuga joined Kanopos                  |
+|   750 |  343 |    6 |       | KTS Kanopos construction finished      |
+|   760 |  353 |   16 |       | Hanza returns with Uzumaki and Haruno support for Kanopos |
+|-------+------+------+-------+----------------------------------------|
+|   999 |  592 |  255 |    03 | Tenten born                            |
+|       |      |      |    06 | Neji born                              |
+|       |      |      |    11 | Lee born                               |
+|-------+------+------+-------+----------------------------------------|
+|  1000 |  593 |  256 |    01 | Shino born                             |
+|       |      |      |    03 | Sakura born                            |
+|       |      |      |    05 | Choji born                             |
+|       |      |      |    07 | Kiba born                              |
+|       |      |      |    07 | Sasuke born                            |
+|       |      |      |    08 | Shikamaru born                         |
+|       |      |      |    09 | Ino born                               |
+|       |      |      |    10 | Naruto born                            |
+|       |      |      |    12 | Hinata born                            |
+|-------+------+------+-------+----------------------------------------|
+|  1007 |  600 |  263 |    12 | Konohamaru (Canopus) born              |
+|-------+------+------+-------+----------------------------------------|
+|  1008 |  601 |  264 |    02 | Hanabi is born                         |
+|       |      |      |    10 | Hinata's mother dies                   |
+|-------+------+------+-------+----------------------------------------|
+|  1010 |  603 |  266 |    09 | Naruto kicked out of the orphanage     |
+|       |      |      |    10 | Moon Festival - first time Hinata participates |
+|-------+------+------+-------+----------------------------------------|
+|  1014 |  607 |  270 |       | Four years of KANP later               |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|-------+------+------+-------+----------------------------------------|
+|  1015 |  608 |  271 |       |                                        |
+|       |      |      |       |                                        |
+|-------+------+------+-------+----------------------------------------|
+|  1016 |  609 |  272 |       | OCI Final Test                         |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|       |      |      |       |                                        |
+|-------+------+------+-------+----------------------------------------|
+|   <5> |      |      |       | <38>                                   |
+
+** The Five Great Powers
+
+| Nation        | Country                 | Religion    | Name           |
+|---------------+-------------------------+-------------+----------------|
+| Iwa           | Northern Africa         | Greek/Roman | Romulus Empire |
+| Suna          | Middle East             | Monothetic  |                |
+| Kumo          | Germatic (Vikings)      | Nordic      |                |
+| Kiri          | Americas (Aztec & Inca) | Native      | Nahua Empire   |
+| Konoha        | East Asia               | Chi/Jap/Kor | Jade Empire    |
+| Demon Country | Egypt                   | Egyptian    |                |
+|---------------+-------------------------+-------------+----------------|
+
+1. Southern Asia nuked each other (India & Pakastan)
+2. Western civilization nuked each other
+   a) Christianity from the Americans completely destroyed
+   b) Only have orphan Nation people
+   c) Pope killed during attack on Europe
+   d) Germany, Norway, Iceland => coalition of the Nordic Gods
+   e) Russia destroyed during North America (USA) attack
+3. Race of the Gods, herescy among most of Western civilization
+4. Nahua Empire, formerly known as Azca Empire is currently at war between the neo-Aztec and neo-Inca
+
+** Abbreviations
+
+| Abr      | Full                                                                         |
+|----------+------------------------------------------------------------------------------|
+| AIM      | Artificial Interface Module                                                  |
+| BISM     | Bio-Interactive System Monitor                                               |
+| DOMAINE  | Department of Mechanical, Artifical Intelligence, & Neurological Engineering |
+| FDY      | Founder's Year                                                               |
+| KANP     | Kanopos Academy of Novice Pilots                                             |
+| KTS      | Kami-sama no Tsuigeki-Sha (God Chaser)                                       |
+| MINOS    | Malleable Ingestible Nutritious Organic Substance                            |
+| OCI      | Orion Cooperative Initiative                                                 |
+| SGC      | God Chaser? S class?                                                         |
+| SKIM     | Synthetic Kinetic Interative Material                                        |
+| TIPE-A   | Technical Instruction for Pilot Education - Advanced                         |
+| VECD     | Vacuum Environment for Creative Design                                       |
+| ZenKZ-D  | Zen: Kami-sama ni Zokushite iru no Dougu [Good (Tool) belonging to the Gods] |
+| mTARGETS | multi-Thread Adaptive Recognition, Global Emulator & Tracking System         |
+| POPPERS  | ??Something to do with food, rehydrated...                                   |
+|----------+------------------------------------------------------------------------------|
+
+Notes: 
+1) ZenKZ-D (D often omitted)
+2) VECD is market to 6-12 yr
+3) VECD was discontinued 25 years ago because of sparking and alignment issues
+
+** Titles
+
+| Abr             | Full                             | Purpose                      |
+|-----------------+----------------------------------+------------------------------|
+| Guardian(s)     | Guardian(s)                      | Special Sakra military force |
+| Keepers         | Keepers of the Peace             | Police force on KTS Kanopos  |
+| Sakr\'{a}       | Sakr\'{a}                        | Captain of the KTS Kanopos   |
+| Sh\`{a}ngd\`{i} | Y\`{u} Hu\'{a}ng Sh\`{a}ngd\`{i} | Jade Emperor                 |
+
+** Ranking
+*** Civilians
+
+There is a civilian council and some guild masters that are important.
+No over all ranking system.
+
+*** Keepers of the Peace
+
+Switch Keepers to Marine ranking!!!
+
+| Pay Grade | Keepers                       | Total |
+|-----------+-------------------------------+-------|
+| Cadet     |                               |       |
+|-----------+-------------------------------+-------|
+| A-0       | Cadet Recruit                 |       |
+| A-1       | Cadet Private                 |       |
+| A-2       | Cadet Private First Class     |       |
+| A-3       | Cadet Corporal                |       |
+| A-4       | Cadet Sergeant                |       |
+| A-5       | Cadet Staff Sergeant          |       |
+| A-6       | Cadet Sergeant First Class    |       |
+| A-7       | Cadet Master Sergeant         |       |
+| A-8       | Cadet First Sergeant          |       |
+| A-9       | Cadet Sergeant Major          |       |
+| A-10      | Cadet Lieutenant Junior Grade |       |
+| A-11      | Cadet Lieutenant              |       |
+| A-12      | Cadet Captain Junior Grade    |       |
+| A-13      | Cadet Captain                 |       |
+| A-14      | Cadet Commander               |     1 |
+|-----------+-------------------------------+-------|
+| Officer   |                               |       |
+|-----------+-------------------------------+-------|
+| K-1       | Lieutenant Junior Grade       |       |
+| K-2       | Lieutenant                    |       |
+| K-3       | Captain Junior Grade          |       |
+| K-4       | Captain                       |    13 |
+| K-5       | Command Captain               |     1 |
+| K-6       | Commander Junior Grade        |    12 |
+| K-7       | Staff Commander               |     6 |
+| K-8       | Commander                     |     3 |
+| K-9       | High Commander                |     1 |
+|-----------+-------------------------------+-------|
+| Enlisted  |                               |       |
+|-----------+-------------------------------+-------|
+| W-1       | Private                       |       |
+| W-2       | Private First Class           |       |
+| W-3       | Specialist                    |       |
+| W-4       | Corporal                      |       |
+| W-5       | Sergeant                      |       |
+| W-6       | Staff Sergeant                |       |
+| W-7       | Sergeant First Class          |       |
+| W-8       | Master Sergeant               |       |
+| W-9       | First Sergeant                |       |
+| W-10      | Sergeant Major                |       |
+| W-11      | Command Sergeant Major        |       |
+|-----------+-------------------------------+-------|
+
+Slogan: Unity, truth and justice: To serve KTS Kanopos in the quest to promote unity\
+in the continuous search for truth in the name of justice for all.\
+For the honor of the Gento Clan.
+
+*** KTS Military
+
+| Pay Grade | KTS Military            | Total |
+|-----------+-------------------------+-------|
+| K-0       | Cadet                   |       |
+| P-1       | Ensign                  |       |
+| P-2       | Lieutenant Junior Grade |       |
+| P-3       | Lieutenant              |       |
+| P-4       | Lieutenant Commander    |       |
+| P-5       | Commander Junior Grade  |       |
+| P-6       | Commander               |       |
+| P-7       | Captain                 |       |
+| P-8       | HK Commander            |     3 |
+| P-9       | Sakra                   |     1 |
+|-----------+-------------------------+-------|
+| G-1       | Guardian                |       |
+| G-2       | Guardian Lieutenant     |       |
+| G-3       | Guardian Captain        |       |
+| G-4       | Guardian Commander      |       |
+|-----------+-------------------------+-------|
+| DOMAINE   | Officer Track           |       |
+|-----------+-------------------------+-------|
+| D-1       | Ensign                  |       |
+| D-2       | Lieutenant Junior Grade |       |
+| D-3       | Lieutenant              |       |
+| D-4       | Lieutenant Commander    |       |
+| D-5       | Commander Junior Grade  |       |
+| D-6       | Staff Commander         |       |
+| D-7       | Commander               |       |
+| D-8       | High Commander          |     3 |
+| D-9       | DOMAINE Commander       |     1 |
+|-----------+-------------------------+-------|
+| DOMAINE   | Enlisted                |       |
+|-----------+-------------------------+-------|
+| E-1       | Private                 |       |
+| E-2       | Private First Class     |       |
+| E-3       | Corporal                |       |
+| E-4       | Sergeant                |       |
+| E-5       | Staff Sergeant          |       |
+| E-6       | Technical Sergeant      |       |
+| E-7       | Sergeant First Class    |       |
+| E-8       | Master Sergeant         |       |
+| E-9       | Sergeant Major          |       |
+|-----------+-------------------------+-------|
+  
+Notes: In the DOMAINE, must score high on officers exam; otherwise, moved to enlisted personnel.
+Notes: HK stands for Hyougi-kai for council.
+
+** Names & Clan Names
+*** Rookie Nine Names
+
+| PoK Names | Clan     | Heir | Name (given)   | Meaning                        |
+|-----------+----------+------+----------------+--------------------------------|
+| Shino     | Aburame  | Yes  | Ji-Min         | Wisdom, clever/sharp           |
+| Choji     | Akimichi | Yes  | Kenta          | Healthy, strong and thick, big |
+| Sakura    | --       | N/A  | Helian Aeliana | Of the Sun, Sun                |
+| Hinata    | Hyuuga   | Yes  | Yakei          | Nightscape                     |
+| Ino       | Yamanaka | Yes  | Ilia (Ilya)    | Glorious                       |
+| Sasuke    | Uchiha   | No   | Akihiko        | beautful dawn, shining prince  |
+| Shikamaru | Nara     | Yes  | Kur-ram        | shadow-intellect               |
+| Kiba      | Inuzuka  | No   | Seo-Jun        | comfortable-talented/handsome  |
+| Naruto    | Uzumaki  | N/A  | Haruto         | sun, sunshine, to soar, to fly |
+|-----------+----------+------+----------------+--------------------------------|
+
+Note: Sasuke's mother named him.
+I like Itazura, (Mischief) for ZenKZ-D
+
+Like Yoake (daybreak/dawn), possible Hyuuga name (Hanza?)
+Other possible Hyuuga names: 
+ 1. Yoru (female given name)
+ 2. Yayako (female given)
+ 3. Yoruichi (female given)
+ 4. Yoshitake (neutral)
+ 5. Yuuryan (female)
+ 6. Yanoka (female)
+ 7. Yakyuu (surname)
+ 8. Yaku (neutral)
+ 9. Yadome (surname)
+10. Yahisa (surname)
+11. Yoruhisa (surname)
+12. Yaya (female)
+
+*** Konoha Names
+
+| PoK Names        | Origin        | New Name              | Meaning                 | Occupation                    |
+|------------------+---------------+-----------------------+-------------------------+-------------------------------|
+| Umino Iruka      | Japan/Korean  | Sang-eo Ken           | Shark, own mind         | KANP sergeant                 |
+| Mitarashi Anko   | Japan         |                       |                         | Interrogation                 |
+| Hatake Kakashi   | China         | D\`{a}oc\u{a}or\'{e}n | Scarecrow               | Guardian                      |
+| Might Guy        | China         | Qi\'{a}ng R\'{e}n     | Strong Man              | Guardian                      |
+| Mizuki           | China         | Y\'{u}                | Dogwood                 | KANP sergeant                 |
+| Uchiha Itachi    | Japan/China   | Katsur\={o}           | Victorious son          | Guardian                      |
+|------------------+---------------+-----------------------+-------------------------+-------------------------------|
+| Hyuuga Hanabi    | Japan         | Yakan                 | Nighttime               | Keeper Heir                   |
+| Akamaru          | Korean        | Ppalgan               | Red circle              | Symbiote                      |
+|------------------+---------------+-----------------------+-------------------------+-------------------------------|
+| Yakushi Kabuto   | Ancient Greek | Hermes                | *Greek God              | Secret Organization           |
+| Senju Hashirama  | Japan         | Hoshizora             | Starry sky              | First Sakra                   |
+| Uchiha Fugaku    | Japan/China   | Masaru                | Victorious              | Uchiha Clan Head              |
+| Sarutobi Hiruzen | Korean        | Hwasan                | Fire mountain           | Current Sakra                 |
+| Hyuuga Hizashi   | Japan         | Yonaka                | Midnight; dead of night | High Commander of the Keepers |
+| Hyuuga Hiashi    | Japan         | Yozora                | Night sky               | Hyuuga Clan Head              |
+|------------------+---------------+-----------------------+-------------------------+-------------------------------|
+
+*** New Character Names
+
+| Character        | Origin     | Occupation                              |
+|------------------+------------+-----------------------------------------|
+| Erik J\o rgensen | Kumo       | The Guild                               |
+| Helian Clan      | ??         | Head of Guild                           |
+| Q\'{i}sh\`{a}n   | Konoha     | DOMAINE Lieutenant Commander            |
+| Kim              | Konoha     | DOMAINE Lieutenant (AI: Firing)         |
+| Suyeom           | Konoha     | DOMAINE Lieutenant (AI: Gryo)           |
+| G\u{a}nju\'{e}   | Konoha     | DOMAINE Lieutenant (AI: Sensory)        |
+| Watai            | Konoha     | DOMAINE Lieutenant (AI: Neural systems) |
+| Chin\={o} Woong  | Konoha     | DOMAINE High Commander: AI              |
+| Lee              | Konoha     | DOMAINE High Commander: Mechanical      |
+| Octavia Stone    | Iwa        | DOMAINE High Commander: Neurological E  |
+| Sara Lieb        | Suna       | Guild Lawyer (Head)                     |
+| Talia Helian     | Suna       | Aeliana's mother                        |
+| Atticus Helian   | Iwa/Konoha | Aeliana's father                        |
+|------------------+------------+-----------------------------------------|
+
+*** Clan Names
+
+| Clan      | Importance   | Origin       | Name (Family)      | Meaning                  |
+|-----------+--------------+--------------+--------------------+--------------------------|
+| Aburame   | 2nd Tier     | Korean       | Haibeu             | Hive                     |
+| Akimichi  | 1st Tier     | Ainu         | Sakhalin           | N/A                      |
+| Hatake    | 3rd Tier     | China        | \={A}sh\u{i}n\`{a} | Grey Wolf Legend         |
+| Hyuuga    | Noble        | Japan        | Gento              | Moon (mysterious rabbit) |
+| Inuzuka   | 2nd Tier     | Korean       | Gongsaeng          | Symbiotic                |
+| Kurama    | 3rd Tier     | China        | H\'{u}xi\={a}n     | Fox Immortal             |
+| Nara      | 2nd Tier     | Ainu/Russian | Krai               | N/A                      |
+| Sarutobi  | 3rd Tier     | Korean       | Wukong             | Goku, Monkey King        |
+| Senju     | Noble        | Japan        | Fujimi             | Immortality              |
+| Shirogane | 3rd Tier     | China        | Y\'{i}n            | Silver                   |
+| Uchiha    | 1st Tier     | Japan/China  | Zh\`{u}r\'{o}ng    | God of Fire              |
+| Uzumaki   | Outside Clan | Japan/China  | H\={e}id\`{o}ng    | Black hole               |
+| Yamanaka  | 2nd Tier     | Ainu/Russian | Amur               | N/A                      |
+|-----------+--------------+--------------+--------------------+--------------------------|
+
+*** Past Sakra (Hokage)
+
+| PoK Names       | Clan     | New Name |
+|-----------------+----------+----------|
+| Hashirama       | Senju    |          |
+| Tobirama        | Senju    |          |
+| Hiruzen         | Sarutobi |          |
+| Namikaze Minato | --       |          |
+| Tsunade         | Senju    |          |
+|                 |          |          |
+|-----------------+----------+----------|
+
+** Kanopos
+Information about Kanopos (Canopus)
+
+** Chapter Structure
+*** Part 1: The Heidong Effect
+changed to The Ghost Hacker
+**** Chapter 01 - (H) Model SB3-QB9
+
+Part 1: Haruto section
+*Haruto scene
+
+-Haruto at home, skipping class, to work on his own AIM
+...intorducing MINOS
+-a little bit on poor life within KTS Kanopos
+-the concepts of BI
+**** Chapter 02 - (H) KANP
+
+*Haruto scene
+
+-Haruto in class, learning about the origin of KTS Kanopos
+...give a name (title) to his best friend (the Koutaishi)
+...Naruto's struggle in class
+...QB9 sass
+
+-add the prank back into the script in Haruto point of view
+
+**** Chapter 03 - (?) Time Is A Concept
+
+*Naruto Chapter
+1. Naruto on the run from the Keepers
+...Naruto goes to the LL to hide from them
+...Program knowledge
+...Find out that QB9 took something of value
+...Naruto makes it home alright, but a Guardian is waiting for him
+...Off loads the data before the Guardians in his apartment escort him away
+
+2. Naruto in Keeper custody
+...Naruto in Tower One, Central of Solas
+...Naruto passing the time thinking about MINOS
+...Naruto and QB9 arguing, but not really
+...QB9 upset on Naruto's behave
+...Naruto interacting with Captain Daichiko
+(let go)
+
+3. Naruto and his friend
+
+**** Chapter 04 - (H) The Answers are Where now?
+
+Haruto in the library scene
+
+**** Chapter 05 - (H) Hitting the Books
+
+(Naruto scene)
+-three month later... (boss man and skim off are happening around the same time)
+
+-Finished studying with Sakura... next to... but they bounce ideas off each other... 
+-first time she wanted to go for lunch... but he couldn't afford it... she had expensive tastes
+(start with this?)
+
+-taking a break from studying... their day off, running into the vacation break
+-Naruto glad to have a break from Iruka - task master (QB9 likes him, makes his job easier)
+-need to know basic requirements for OCI (optional, if not mentioned previously - chapter 3 or 5)
+-Iruka can be introduced via Naruto's perspective... Naruto slacking off?
+
+-walks along rooftops... looking for an easy mark (talk of food made him hungery)
+-Naruto playing with magnet ball... sees Hinata
+-hasn't seen his best friend in what fells like years... (QB9 banter)
+...wasn't sure if her old man had made her stop seeing him
+
+Naruto playing with a magnet ball, using force gloves he\lquote d fixed himself...
+
+Sees Hinata, and ignores the rest of QB9 ranting and goes to her...
+
+Hinata walking along with Tatsuki... Naruto hacks into Hinata\lquote s ISM... router messages weren\lquote t protected in the Hyuuga ISM, but he couldn\lquote t send any bugs not to mention, his own ISM signature would be all over it... but he was sure Hinata wouldn\lquote t mind
+
+Naruto walking along the roofs, Hinata never looks up, but responds to his messages...
+
+they go back and forth before Guardian Inugami interrupts... takes him to central tower to see boss man
+
+a little back and forth about Naruto\lquote s girlfriend...
+
+...complains about the library (not his play thing)
+
+Naruto says he\lquote s just getting serious about his studies...
+
+**** Chapter 06 - (H) Warehouse RL2
+%beginning of month long break from KANP
+%next day
+
+Haruto's point of view 
+
+Sakura gets a warehouse for them to use as a study area.
+-empty warehouse (for emergencies)
+-place has hidden compartments
+--thinks about gray area of the law
+--books on the Norden Gods (illigel)
+---wanted to know more about Erikson's home/history
+---wanted to know if there was a tie to Ino's blonde hair (wasn't)
+-large square footage
+-morning after breakfast
+-thinks about setting up a gun range
+-map out area for partical applications
+--Naruto tells her he's boss at the partical tests
+--Sakura says its for her (the showcase)
+-Naruto impressed, also seems to be talking to someone else in his head
+-Will need to fix it up as it is an empty warehouse
+
+The pair interruptted as Erikson arrives (Tommy said you were here)
+-Erikson introduced to Naruto
+-tells Sakura that her dad should be in properly by dinner time (docking documentation issues)
+--He's bringing the good news, found two relics (Water based religion)
+--Load them into this warehouse (good idea, he'd have suggested it)
+-asks what they need to improve... Sakura tells Naruto to make a list
+--Naruto runs off muttering to himself
+--Erikson asks if she'll want a gun range
+---Noticed she was caring
+---yeah, but...
+---He'll have something simple installed
+---Just between the two of them
+
+\newscene
+
+The first section of Old Wounds, plus chance meeting in Red light sector.
+
+This chapter is pretty much filler if I can't think of something to place here. 
+What to do? What to do?
+Something to do with the Heidong Effect? 
+Maybe meet Anko and build relationship between him and Iruka?
+I'm just not sure how I can fit it into the timeline. Other than random chance in Red sector.
+
+**** Chapter 07 - (H) Old Wounds
+
+Naruto coming back to the warehouse, took him forever to get things settled
+-Naruto signed up for Trade courses (QB9 had to remind him about it)
+--starts in a couple of days... short course would last the whole of his vacation
+---month long vacation
+---work with Sakura in the afternoon
+---needed to run it by her
+--Going under disguise (KANP students not allowed to join)
+-Made a list of things (including a rehydrator)
+--worst thing that could happen is, Sakura would say no
+--already thinking of creating his own false compartment (didn't really know much about the Guild)
+-Naruto not paying attention (in LL) feels movement to his right
+--combination of evasive movements, get slapped down at the end
+--guy he kind of remembered (civilian) SKIM has been linked
+-Guy talks (seen him do this set of movements a dozen times at least)
+--turns out to be his old Sergeant (couldn't remember his name)
+--not alone, has a group
+--goes into a monologue about how his life is ruined after Naruto calls him Sergeant
+---was dishonorably discharged from service, couldn't get an honest job, so...
+---looks at his companions, Naruto really looks at them (realizes he's not in a good position)
+--Naruto tries to talk the guy down (doesn't work)
+--Guys says he's getting payback, leaving tomorrow
+-Naruto get's the shit beat out of him
+
+\newscene
+
+Naruto pranks the disgraced Sergeant, planting the evidence of wrong doing on him...
+
+accessing the KANP building...
+
+Naruto watches him get taken away...
+
+He yells and stuff, but still manhandled...
+
+QB9 satisfied, wanted to do more...
+-Naruto is still very injuried (but had to get the Sergeant before he left)
+
+**** Chapter 08 - (H) The House of Fire
+
+*Naruto section
+
+starts with an introduction to the UPS
+...Near the end of his lesson at the Uchiha Pyrotechnic Studio
+...getting a tour of the weapons
+-audio and visio
+...Naruto has paid for a kid to ask questions
+....When we get to the tour, starts with the chief engineer not knowing who Naruto is (What's you name again kid?)
+....Naruto gives it to him (that's how we know that he's in disguise)
+
+Naruto hacks into the database (doesn't let QB9 do it, still sore about the KANP incident)
+-get's weapons skematics, for fire arms and mecha
+-also gets algorithms used in the high end science
+
+1. Mention of the Moon Festival fireworks
+   a) Note that it is illigel to blow things up inside Kanopos)
+   b) The Hyuuga's pay for the oxygen wasted by the fireworks
+2. Mention of fire lights
+3. Next assignment will be the fairy lights (simple)
+
+Naruto travels to warehouse RL2... enters through the roof
+...the training is housed in the Uchiha district, so he can't travel via rooftops until he's out
+...takes off his face paint, and fake ear prostatics
+
+-drinks real water from a water pouch
+...better than synthetic water, Naruto drinks recycled water (cheapest)
+...sees Sakura at the fire range, was thinking about doing something nice for her
+-she didn't even blink when he'd first showed up as a burnet
+...new look at the warehouse, now that it has stuff in it (including Sakura's relic)
+-new stuff
+-Sakura and Naruto get back to studying
+
+uild this shit to the mini criss...
+looking at the ship as it starts to degrade?
+
+*** Part 2: The Guild Princess
+**** Chapter 09 - (-) Unknown Interference
+
+*Naruto scene
+Naruto looked out the window to the KANP park outside. Further down would be Prayer Alley, not that he\lquote d gotten to visit it much. Every since the turn of the Founder\lquote s year, the Keepers had been riding him everywhere he went.
+While it wasn\lquote t unheard of for them to do that, as he regularly got stopped anywhere within central Solas. \lquote Cadet Uzumaki, why don\lquote t we escort you to class. We wouldn\lquote t want you to be late for your lessons.\lquote {} 
+Or \lquote We\lquote ve had a few complaints in the area. Just checking to see if you\lquote re alright.\lquote {}
+As if he\lquote d believe any of that, although QB9 was getting a kick out it. To the Gods, they were even harassing him in the LL.
+\lquote This is a dangerous area, Uzumaki-san, let us escort you through.\lquote {} The nonsense. And for the life of him, he couldn\lquote t figure out why.
+
+\textbf{\sffamily{Don't ask me. I've already searched your database.}} QB9 answered his unasked question for once. 
+
+\thought{'Well, it happens every year. Just not nearly this bad.'}
+
+\textbf{\sffamily{Probably a response to the KANP incident.}}
+
+Naruto rolled his eyes. He\lquote d figured that much out already. \thought{'Figured. What I don't get it what's so special about this time of year?'} Naruto thought as Sergeant Umino continued about some history or another.
+Sakura was busy typing away at her tablet. She\lquote d mentioned how she like this Sergeant\lquote lecture style. Something about not leaving out important information. He wasn\lquote sure, he\lquote tuned out once she\lquote started talking.
+Didn\lquote t really matter in the end as the Sergeant was as boring as watching an alloid coat dry.
+
+Naruto blinked back sleep at the drone of his voice. Kiba\lquote s symbiote yapped startling him back awake. As far as Naruto could tell only Shikamaru could get away with sleeping in class, and Sergeant Umino seemed to only take it so well.
+
+\textbf{\sffamily{I've double-checked the list of holidays and festivals on the Ship and in the Jade Empire. Nothing on record.}} QB9 added.
+
+\thought{'Well thanks anyway.'} Naruto thought as his eyes landed on the observatory. The extra attention never did Naruto any good. And every year he devised a prank for this time of year. He\lquote d yet to be caught in the past four years in doing this one.
+As such, he expected the Keepers to up their game, which was exactly what he wanted. In the observatory deck, was the Commanders Halo screen. The old man had shown it to him a handful of times as some kind of inspriation, but Naruto didn\lquote t want to be a Sakra. Too much paperwork.
+
+\textbf{\sffamily{I still think this is an unnessary risk.}}
+
+\thought{'Of shove it, QB.'} Naruto thought. \thought{'You should be glad I'm giving you a job to do this time. So don't mess it up.'}
+
+Today was going to be one to remember. And it would be a chance to test QB9\lquote s controlled hack. They\lquote d need it if this was going to work. And he\lquote d had a lot of extra down time, like every year, with the Keepers breathing down his neck.
+Every year they did this song and dance, and every year the Keepers seemed to think they\lquote d best him. \thought{'If they just left me alone, I wouldn't feel like I had to do a big prank in response.'}
+
+\textbf{\sffamily{If this works, they'll learn their lesson.}} QB9 commented. \textbf{\sffamily{If it works.}}
+
+Naruto snorted causing Sergeant Umino to give him a dirty look, but he didn\lquote t get kicked out of class for it. That was one of the new things with his new Sergeant. He didn\lquote t see the need to kick him out for ever little thing.
+
+
+We’ve had a few complaints in the area. Just checking to see if you’re okay.
+
+-Naruto pranks the Commanders Halo screen while still in class
+...massive prank
+(get some notes from fanfic) Naruto hacks into the Commanders Halo screen, massive hacking
+
+Destroys the power
+
+Pranking the Hyuuga mountain while in class... the idea of ghost riding here... Naruto hacks into his and his friends chips for localizational effect...
+
+\newscene
+
+*Sakura scene
+
+Sakura studying Age of Invisibility relics (at home studying, Naruto currently in Keeper custody)
+
+illusion big deal for her... watch her program a patch (usb drive)... not a good idea, so she goes with small drones she can use with a VX5 AIM system... risky... but it could work
+
+clan screen shorts circuits during the attempt to remove Naruto\lquote s worm...
+
+(end of this, Keepers come to the door, want access to the warehouse)
+
+**** Chapter 10 - (-) Ghost Hacker
+
+*Sakura scene (start with)
+
+*Naruto scene after
+
+**** Chapter 11 - (-) Komi
+
+*Naruto scene
+
+-Final scores from the past year are in, now has only one year left to get his grades up to get into OCI
+...QB9 made him side up for Techie cram school
+
+*Sakura scene
+
+-Sergernt Umino guilts Sakura into using her two week break to follow a head tech (Head Tech to the Guardians)
+...learn more about the Techies from this experience
+...Sakura takes some of those ideas to help her with her showcase
+
+Sakura's head tech goes to service the Moon Princess (talking with the Moon Princess head tech) - Hinata is following him (Gouza?, head retainer)
+
+**** Chapter 12 - (-) Lower Level
+
+*Naruto Chapter
+This should pretty much be straight from the fic, with modifications
+
+**** Chapter 13 - (-) Guild/Techie
+
+Sakura chapter
+
+-also should be from the fanfiction, but from Sakura's point of view
+
+**** Chapter 14 - (-) The Jade Festival
+
+This is the aftermath of the Fire Festival prank
+
+**** Chapter 15 - (-) Blackout (Pt 1)
+
+...this is similar to the Genin exam (part 1), with three main tests
+will start with Sakura and end with Naruto (telling us that he fails, and giving him a secret test)
+
+*** Part 3: The Gento Heir
+**** Chapter 15 - (-) Blackout (Pt 2)
+
+This is Hinata's point-of-view about the Blackout/Jade Festival.
+Should be interesting.
+
+**** Chapter 16 - (-) FinalTest/Abandon Ship
+
+Final chapter... Kanopos nearly destroyed
+
+Sakura going to her meeting with Sergeant Umino in the red light district near his apartment... He'd made a promise to tell her the results as soon as he knew them.
+
+The Sergeant wanted to tell her right away that she did not make the OCI, and that he'd fought for her.
+
+Sakura doesn't know what to do about it. It's late, and she couldn't face her parents, so she goes to the warehouse.
+
+At the door to the warehouse, the ship goes into red alert. Naruto's picture up on the emergency Halo screens (except for the commander's screen which was still out of commission).
+-wanted for questioning about break-in to the Hokage's tower
+
+Curses Naruto out loud before entering the building. Finds Naruto there.
+She tears into him.
+
+Naruto "First, no one can prove I was there."
+
+Sakura gave him a look.
+
+Naruto "Second, I can explain."
+
+Naruto tells Sakura about the deal, Mizuki gave him to get into OCI.
+
+Sakura is upset that he believed it.
+
+Naruto tells her that he didn't fully, but if there was a change then he had to take it. If I'd known you didn't make it either, I'd have let you end on it. In fact, I got you a copy, just in case.
+
+Sakura about to yell at him.
+
+And I didn't give him the real thing. Just this dumby stuff.
+
+"Where are you suppose to meet?" Sakura
+
+"Well, technically, we already met. He said, I was in now, but I guess that was a lie too huh."
+
+Naruto looks in thought, "Well he won't get far, with that."
+
+"What did you give him?"
+
+"The old man's porn stash."
+
+Sakura knows, that Naruto calls the Sakra the old man, so she puts that together and blushes.
+
+The ship goes down at this moment.
+
+Naruto says he didn't to that!
+
+...Sakura uses her big brain to figure out what happened...
+...we get a look at the SKIMs at full power...
+
+...Naruto builds the chip they need after Sakura looks at the real data...
+...They have everything, but Sakura realizes that they need top level access, she's talking out loud...
+
+...Naruto says he knows just the person to help...
+
+*next scene*
+This chapter is from Erik's point of view as he follows the trail to find his little sister.
+-the ship is in evac mode, his adoptive parents will not go into their hiberative sleep until Sakura is found...
+
+* Hackerfiles - Orion Cooperative Initiative
+** Timeline
+** Abbreviations (continued...)
+** Names
+
+Konoha Names
+
+| PoK Names           | Origin | New Name | Occupation    |
+|---------------------+--------+----------+---------------|
+| Mitarashi Anko      |        |          | Interrogation |
+| Hatake Kakashi      |        |          | Guardian      |
+| Might Guy           |        |          | Guardian      |
+| Inuzuka Hana        |        |          | Symbiote Vet  |
+| Sarutobi Asuma      |        |          |               |
+| Yuuhi Kurenai       |        |          |               |
+| Jiraiya             |        |          |               |
+| Shizune             |        |          |               |
+|---------------------+--------+----------+---------------|
+| Momochi Zabuza      |        |          |               |
+| Haku                | Japan  | Yukimura |               |
+|---------------------+--------+----------+---------------|
+| Rock Lee            |        |          |               |
+| Hyuuga Neji         |        |          |               |
+| Tenten              |        |          |               |
+| Hyuuga Hanabi       |        |          |               |
+| Sarutobi Konohamaru |        |          |               |
+|---------------------+--------+----------+---------------|
+| Orochimaru          |        |          |               |
+| Jiroubou            |        |          |               |
+| Kidoumaru           |        |          |               |
+| Sakon and Ukon      |        |          |               |
+| Tayuya              |        |          |               |
+| Kaguya Kiminaro     |        |          |               |
+|---------------------+--------+----------+---------------|
+| Gaara               |        |          |               |
+| Kankuro             |        |          |               |
+| Temari              |        |          |               |
+| Chiyo               |        |          |               |
+|---------------------+--------+----------+---------------|
+
+** Chapter Structure
+*** Chapter 01 - Arrival
+This chapter has the arrival of Kanapos to OCI station.
+
+Start with Sakura/Aeliana's point-of-view
+
+...This will involve the Guild, her parents... the worries.
+
+...Preparation for starting OCI... 
+
+...Aeliana allowed to go to the big greeting becaus of her parents
+
+Naruto point-of-view
+
+...Moving into OCI (Iruka helping him move in, maybe Anko too).
+They are preparing to be parents (test tube babies)...
+Naruto, I'm going to be a good Uncle...
+Anko... only doing this, because they'll be station bound for four years with the repairs
+Iruka looking forward to putting in flight hours at a facility like OCI (he never go to go)... 
+also wonders if he can sign up for some classes during the off cycle
+
+...Get a view of the dorm situation... Eventually, Naruto look for Hinata... 
+She's talking with some older guy (QB9 teases him about it)... 
+Naruto ignores him 'cause other guy a Hyuuga
+QB9: Not all Hyuuga are related
+...Aeliana finds them, they hang (they have arrived)
+...classes start tomorrow (get some sleep, Naruto)
+
+*** Chapter 02 - A Formal Introduction
+Meet the Kanapos teachers
+...introducing them and their specilities
+...Naruto asks about when they can take Anko's class (survival training)
+...One of the teachers laughs (Kakashi)
+...Gai super happy, I see the fires of your youth burn brightly! 
+He than comes up with exercises for them to do, that take the rest of the day making the rest of the class mad at him.
+
+Run in with the other Nation Students
+
+Aeliana and others with the unnatural AIM (notices it on foreign students)
+
+*** Chapter 03 - Pilot 101
+A class and that class friction
+...Aeliana and Ino bump heads
+
+Naruto struggles with reading the language comes up with a translater, but can't use it.
+Aeliana says it's illegal, so he works about that and develops a cypher
+
+Naruto also fighting with QB9 over the development of a body... 
+the Hokage gives OCI students a stipend to devoid them of their families, which doesn't work like it could.
+Naruto saving the money, under his mattress with the rest of the money he'd saved from eating at the warehouse
+...Eventually, Aeliana asks him what QB9 is arguing about and Naruto tells her...
+...She doesn't see anything wrong with using the Guild contacts to ask around, but it will take some time.
+...The Nation is far from OCI, and that's likely were they'll find anything...
+...Naruto tell her they can pay... She asks about the stipend...
+...He says he keeps it in a safe place...
+...under your bed is not a safe place...
+...how did you know?
+...Tell him to open a bank account... but Naruto tell her that they don't do business with people like him
+
+*** Chapter 04
+Placeholder text
+
+*** Chapter 05
+placeholder text
+
+*** Chapter 06
+placeholder text
+
+*** Chapter 07
+placeholder text
+
+*** Chapter 08
+placeholder text
+
+*** Chapter 09
+placeholder text
+
+*** Chapter 10
+placeholder text
+
+*** Chapter 11
+placeholder text
+
+*** Chapter 12
+placeholder text
+
+*** Chapter 13
+placeholder text
+
+*** Chapter 14
+placeholder text
+
+*** Chapter 15
+placeholder text
+
+*** Chapter 16 - The Calm Before the Storm
+Leading up to the last test they will ever have:
+Aeliana, Hinata, and Naruto must look inside themselves for the strength to push forward.
+For only one can be the winner. (tomorrow is the big day)
+End of the book
+
+* Hackerfiles - Relic Pilot
+** Timeline
+** Abbreviations (continued...)
+** Chapter Structure
+*** Chapter 01 - Let the Games Begin
+Following their training to be a MECHA Pilot;
+ Aeliana, Hinata, and Naruto must score high on their last exam to become the pilots they dream of
+...This is the first test of strength
+...This is when the OCI pilots get to use the suits of their choice
+(Hinata in the heir's MECHA, Aeliana in a MECHA purchased by her parents, Naruto in an Uzumaki MECHA)
+All of these MECHA have relic, hense the title
+
+*** Chapter 02 - Try Not to Break
+(A three day test, pushing pilots to their limits) 
+First up, the Kanapos exam, Ibiki leads a test of mental followed by the fatigue stresser...
+This is the first part of the exam... 
+
+*** Chapter 03 - Survival Training
+(week between each test) 
+After the stress of the Kanapos exam, they must move on to the survival training of Iwa
+Only Naruto's been to all of Anko's class along with Hinata and Aeliana
+This should be a piece of cake right?
+
+*** Chapter 04 - Ghost that Pass in the Night
+(a speed test)
+Next up is the Suna test, a mental game of strategy and power (held in space)
+Gaara is supposed to do the best at this one
+
+*** Chapter 05 - The Bloodbath
+Kiri's test is next, it's brute force.
+
+*** Chapter 06 - Of Lightening
+(one month before final text from Kumo)
+This year Kumo get's the last word, and it's suppose to be an epic one.
+Unlike Kiri, Kumo is a two parter, a pilot course the places students in a bracket...
+those that are left anyway.
+
+*** Chapter 07
+placeholder text
+
+*** Chapter 08
+placeholder text
+
+*** Chapter 09
+placeholder text
+
+*** Chapter 10
+placeholder text
+
+*** Chapter 11
+placeholder text
+
+*** Chapter 12
+placeholder text
+
+*** Chapter 13
+placeholder text
+
+*** Chapter 14
+placeholder text
+
+*** Chapter 15
+placeholder text
+
+*** Chapter 16
+Final chapter, end of invasion? Beginning of the Holy War
+* Hackerfiles - Holy War
+** Timeline
+** Abbreviations (continued...)
+** Chapter Structure
